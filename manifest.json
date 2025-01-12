@@ -2,20 +2,20 @@
   "background_color": "#525252",
   "dir": "ltr",
   "display": "standalone",
-  "name": "BotanyBase",
+  "name": "codespace",
   "orientation": "any",
   "scope": "/",
-  "short_name": "BotanyBase",
+  "short_name": "codespace",
   "start_url": "/",
   "theme_color": "#525252",
   "icons": [
     {
-      "src": "https://botanybase.github.io/assets/faviconnew.png",
+      "src": "https://melonmasteristaken.github.io/codespace1/assets/img/codespace.png",
       "type": "image/png",
       "sizes": "1000x1000"
     }
   ],
-  "id": "1DSTBB",
+  "id": "cds",
   "description": "A Plant Idenfication Guide",
   "display_override": [
     "fullscreen",
